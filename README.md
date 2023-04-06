@@ -13,7 +13,7 @@
 The goal of this project is to develop a web application that allows user to upload a video and automatically transcribe or translate any video to **English substitle SRT FILE** ,gives downloaded file Automatically to the user.The application is built using Django framework.The project aim to give user the srt file directly without any huddle to search the file on the internet
 
 ## Solution
-The proposed solution for this project utilized `Openai-Whisper` model to transribe or translate audio of the video into subtitle file.The application is built using Django framework.
+The proposed solution for this project utilized `Openai-Whisper` model to transribe or translate audio of the video into **subtitle srt file**.The application is built using Django framework.
 
 Create Environment
 ```
