@@ -1,0 +1,6 @@
+djangorestframework==3.14.0
+openai-whisper==20230314
+pip-chill==1.0.1
+pymongo==4.3.3
+whisper==1.1.10
+wincertstore==0.2
