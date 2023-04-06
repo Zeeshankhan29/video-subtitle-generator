@@ -49,6 +49,28 @@ python manage.py runserver
 
 ```
 
+### Run through Docker by building it.
+Check if the Dockerfile is available in the project directory
+
+Build the Docker image
+
+```
+docker build . -t subtitles
+
+```
+
+Run the Docker image
+
+```
+docker run -p 8080:8080 subtitles
+
+```
+
+### project can be runned by pulling a docker image from docker hub
+```
+docker pull zeeshankhan29/subtitles
+
+```
 👨‍💻 Tech Stack Used
 1. Python
 2. Django
