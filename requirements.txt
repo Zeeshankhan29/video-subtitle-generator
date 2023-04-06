@@ -1,4 +1,0 @@
-openai-whisper
-whisper
-django
-
