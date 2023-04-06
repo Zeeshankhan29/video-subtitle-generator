@@ -31,9 +31,14 @@ conda activate subtitles
 install requirements file
 
 ```
+pip install pip-chill
+pip-chill >> requirements.txt
 pip install -r requirements.txt
 
+
 ```
+
+
 
 
 ## To run the project and get the srt file automatically 
@@ -47,7 +52,8 @@ python manage.py runserver
 👨‍💻 Tech Stack Used
 1. Python
 2. Django
-
+3. Docker
+4. AWS EC2
 
 ## Conclusion
 This application could be used in a wide range of real-world scenarios, such as in the entertainment industry for **subtitle generation**. We often feel frustrated to find the subtitle file , this could help user to get the **Subtitle srt file** with no time . Accuracy of the model could be increased by switching on to different models.
