@@ -37,9 +37,17 @@ pip install -r requirements.txt
 
 
 ## To run the project and get the srt file automatically 
-follow this command 
+#### follow this command 
 ```
 cd subtitle
 python manage.py runserver
 
 ```
+
+👨‍💻 Tech Stack Used
+1. Python
+2. Django
+
+
+## Conclusion
+This application could be used in a wide range of real-world scenarios, such as in the entertainment industry for **subtitle generation**. We often feel frustrated to find the subtitle file , this could help user to get the **Subtitle srt file** with no time . Accuracy of the model could be increased by switching on to different models.
