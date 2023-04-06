@@ -1,6 +1,19 @@
-# AI_Subtitles
-Generating video subtitles using Artificial Intelligence
+# Generating video subtitles: Unlocking the power of Openai-Whisper 
 
+#### Language and Libraries
+
+<p>
+<a><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"/></a>
+<a><img src="https://img.shields.io/badge/openai-181818?style=for-the-badge&logo=openai&logoColor=white" alt="numpy"/></a>
+<a><img src="https://img.shields.io/badge/whisper-181818?style=for-the-badge&logo=openai&logoColor=green" alt="opencv"/></a>
+<a><img src="https://img.shields.io/badge/Django-%23EE4C2C.svg?style=for-the-badge&logo=Django&logoColor=white" alt="pytorch"/></a>
+</p>
+
+## Problem statement
+The goal of this project is to develop a web application that allows user to upload a video and automatically transcribe or translate any video to **English substitle SRT FILE** ,gives downloaded file Automatically to the user.The application is built using Django framework.The project aim to give user the srt file directly without any huddle to search the file on the internet
+
+## Solution
+The proposed solution for this project utilized Openai-Whisper model to transribe or translate audio of the video into subtitle file.The application is built using Django framework.
 
 Create Environment
 ```
