@@ -66,7 +66,7 @@ docker run -p 8080:8080 subtitles
 
 ```
 
-### project can be runned by pulling a docker image from docker hub
+### Project can be runned by pulling a docker image from docker hub
 ```
 docker pull zeeshankhan29/subtitles
 
@@ -74,7 +74,7 @@ docker pull zeeshankhan29/subtitles
 👨‍💻 Tech Stack Used
 1. Python
 2. Django
-3. Docker
+3. fDocker
 4. AWS EC2
 
 ## Conclusion

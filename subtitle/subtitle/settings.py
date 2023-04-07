@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     #My apps
 
-    'generate_subtitle'
+    'generate_subtitle',
     
 ]
 
@@ -84,6 +84,17 @@ DATABASES = {
         "NAME": BASE_DIR / "db.sqlite3",
     }
 }
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'djongo',
+#         'NAME': 'subtitles',
+#         'CLIENT': {
+#             'host': 'localhost',
+#             'port': 27017,
+#         },
+#     }
+# }
+
 
 
 # Password validation
