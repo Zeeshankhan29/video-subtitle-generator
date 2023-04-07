@@ -77,7 +77,7 @@ docker pull zeeshankhan29/subtitles
 3. fDocker
 4. AWS EC2
 
-## Conclusion
+## Conclusions
 This application could be used in a wide range of real-world scenarios, such as in the entertainment industry for **subtitle generation**. We often feel frustrated to find the subtitle file , this could help user to get the **Subtitle srt file** with no time . Accuracy of the model could be increased by switching on to different models.
 
 ![image](https://user-images.githubusercontent.com/95518247/230373854-256d743d-f592-4c4b-9a8f-693f3a6b9b4b.png)
