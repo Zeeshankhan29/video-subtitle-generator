@@ -80,4 +80,4 @@ docker pull zeeshankhan29/subtitles
 ## Conclusions
 This application could be used in a wide range of real-world scenarios, such as in the entertainment industry for **subtitle generation**. We often feel frustrated to find the subtitle file , this could help user to get the **Subtitle srt file** with no time . Accuracy of the model could be increased by switching on to different models.
 
-<img src="image.png" width="128"/>
+<img src="image.png" />
